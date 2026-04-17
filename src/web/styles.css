@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v5216 -->
+<div class="styles-—-stylesheet-definitions-5216">
+  <header class="section">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-5216">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="container">
+    <div class="header">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-5216">v5216</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-5216 {
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+  gap: 9px;
+  padding: 24px;
+  background: #b0c226;
+  border-radius: 4px;
+  border: 1px solid #04f0f0;
+}
+.styles-—-stylesheet-definitions-5216 .section {
+  color: #28271f;
+  font-size: 18px;
+  font-weight: 700;
+}
+.badge-5216 {
+  background: #04f0f0;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 11px;
+  font-size: 10px;
+}
+</style>
